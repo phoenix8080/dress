@@ -1,0 +1,4 @@
+@font-face {
+    font-family: 'Sans';
+    src: local('Sans.ttf'), url(./fonts/Sans.ttf) format('truetype');
+  }
